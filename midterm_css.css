@@ -1,0 +1,24 @@
+* {
+  font-family: 'Rubik', sans-serif;
+}
+
+div#MainContent {
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+
+
+@media screen and (min-width: 800px) {
+  img.fall-backgrounds-tumblr.jpg {
+    width:50%;
+    float:left;
+    padding-right:10px;
+    padding-bottom:20px;
+}
+
+
+
+}
